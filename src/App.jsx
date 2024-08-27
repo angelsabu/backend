@@ -1,10 +1,11 @@
 import React from 'react'
+
 import CreateGroupPage from './CreateGroupPage'
   function App() {
     return (
       <div className="App">
   
-     <CreateGroupPage />
+     <CreateGroupPage/>
       </div>
       
     );
@@ -12,6 +13,3 @@ import CreateGroupPage from './CreateGroupPage'
 
   export default App;
   
-
-  
-      
